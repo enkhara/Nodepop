@@ -1,0 +1,17 @@
+h1{
+    font-size: 8rem;
+
+}
+
+body{
+    display: block;
+    margin: 10rem;
+}
+
+h2{
+    font-size: 5rem;
+}
+
+h2, h1{
+    margin: 1rem;
+}
