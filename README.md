@@ -27,3 +27,11 @@ npm run dev
 ```
 npm run start
 ```
+
+## API REQUEST
+
+### Show all advertisements
+
+```
+http://localhost:3000/api/advertisements
+```
