@@ -8,10 +8,10 @@
             "tags": [ "lifestyle", "motor" ]
         },
         {
-            "name": "Bicicleta",
+            "name": "Coche",
             "sale": "false",
-            "price": 230.15,
-            "image": "bici.jpg",
+            "price": 4000,
+            "image": "coche.jpg",
             "tags": [ "lifestyle", "motor" ]
         },
         {
