@@ -1,39 +1,6 @@
 
-@import url(./variables.css);
+
 @import url(./header.css);
 @import url(./footer.css);
-
-header{
-  background-color: var(--papaya);
-  border-bottom: solid .5rem;
-  border-color: white;
-  
-}
-
-body {
-  background-color: var(--blue);
-  margin-top: 5rem;
-  margin-bottom: var(--footer);
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-main{
-    max-width: 90%;
-    margin: 0 auto 4rem auto;
-    font-family: textos;
-    background-color: white;
-    
-}
-
-a {
-  color: #00B7FF;
-}
-
-footer {
-  background-color: var(--papaya);
-}
-
-li{
-  text-decoration: none;
-  list-style: none;
-}
+@import url(./indexBody.css);
+@import url(./items.css);

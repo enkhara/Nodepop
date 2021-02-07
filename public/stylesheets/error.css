@@ -1,13 +1,14 @@
 @import url('./variables.css');
 
 h1{
-    font-size: 8rem;
+    font-size: 9rem;
 
 }
 
 body{
-    display: block;
     background-color: var(--papaya);
+    max-width: 80%;
+    max-width: 80%;
     
 }
 
