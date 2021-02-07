@@ -47,19 +47,6 @@ router.get('/', async function(req, res, next)  {
     }
 })
 
-/**
- * api/advertisements:filtro por sale
- */
-/*
-router.get('/sale', async function(req, res, next) {
-    try{
-        const result = await Advertisement.find();
-        res.json(result)
-    }catch(err){
-        next(err)
-    }
-})
-*/
 router.get('/tags', async (req, res, next)=>{
     try {
         const result = await Advertisement.tagsList()
