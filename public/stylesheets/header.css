@@ -8,4 +8,5 @@ header{
     
     height: var(--header);
     width: 100%;
+    color: white;
 }

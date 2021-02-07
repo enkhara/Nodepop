@@ -21,7 +21,7 @@ main{
     max-width: 90%;
     margin: 0 auto 4rem auto;
     font-family: textos;
-    color: white;
+    background-color: white;
     
 }
 
@@ -31,4 +31,9 @@ a {
 
 footer {
   background-color: var(--papaya);
+}
+
+li{
+  text-decoration: none;
+  list-style: none;
 }
